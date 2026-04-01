@@ -1,4 +1,4 @@
-from Func import fizzbuzz
+from  Func import fizzbuzz
 from random import randint
 
-print(fizzbuzz(randint(1, 35)))
+print(fizzbuzz(randint(1, 15)))
